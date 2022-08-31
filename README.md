@@ -27,3 +27,4 @@
 |No | Name | Study Group | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|01|Drishti Goyal| 6| drishtigoyal13 | <https://github.com/drishtigoyal13/my_website> | <https://kostis-portfolio13.netlify.app/> | 2021-08-31 |
